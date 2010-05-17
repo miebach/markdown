@@ -1,11 +1,18 @@
 {
     "name": "markdown",
-    "author": "John Fraser",
+    "version": "0.0.0",
     "contributors": [
-        "John Gruber",
-        "George Moschovitis"
-    ],    
-    "dependencies": [],
-    "js": "lib"
+        {
+            "name": "John Fraser"
+        },
+        {
+            "name": "John Gruber"
+        },
+        {
+            "name": "George Moschovitis"
+        },
+        {
+            "name": "Kris Kowal"
+        }
+    ]
 }
-
